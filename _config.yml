@@ -1,22 +1,22 @@
 
-title: My Resume
-url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+title: powerprove
+url: 'http://powerprove.github.io'
+baseurl: '/' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Jae Wook Shin  ## put your name
+title: 'powerprove'  ## your title
+location: null2root
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+facebook: http://powerprove.github.io  ## your facebook account url
+twitter: http://powerprove.github.io  ## your twitter account url
+linkedin: http://powerprove.github.io  ## your linkedin account url
+dribbble: http://powerprove.github.io  ## you dribbble account url
+foursquare: http://powerprove.github.io  ## your foursquare account url
 
 
 
