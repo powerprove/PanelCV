@@ -5,7 +5,7 @@
 
 @media (min-width: 1200px) {
     .container {
-        width: 1130px !important;
+        width: 90% !important;
     }
 }
 
@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     width: 100%;
     overflow: hidden;
     position: absolute;
-    top: 50%; 
+    top: 35%; 
     margin: -290.5px auto 0 auto;
 }
 h1 {
@@ -255,7 +255,7 @@ h2.resp-tab-title:last-child {
     background-color: #f4f4f4;
     float: left;
     width: 88%;
-    height: 580px;
+    height: 1000px;
     clear: none;
     margin-left: 13px;
 }
@@ -578,7 +578,7 @@ h2.resp-accordion:hover {
 }
 
 .content_2 {
-    height: 580px;
+    height: 1000px;
     -webkit-box-sizing:border-box;
     -moz-box-sizing:border-box;
     box-sizing:border-box;		
@@ -790,11 +790,12 @@ h2.resp-accordion:hover {
 #profile .cycle-slideshow {
     margin-top: 19px;
     margin-bottom: 20px;
-    width: 348px;
-    height: 456px;
+    width: 485px;
+    height: 485px;
 }
 #profile .cycle-slideshow img {
     width: 100%;
+    height: 100%;
 }
 .bottom-p .panel-body {
     padding: 15px;
@@ -939,7 +940,7 @@ ul.about {
 ---------------------------------------------------*/
 
 .widget-profil{
-    height: 580px;   
+    height: 640px;   
     float: right; 
 }
 .widget-profil .circle {
@@ -1038,15 +1039,13 @@ ul.about {
     position: relative;
     margin: 15px auto;
     width: 150px;
-    height: 150px;
+    height: 180px;
 }
 
 .widget-profil .head-image{
     position: absolute;
     top: 0;
     left: 0;
-    width: 150px;
-    height: 150px;
 }
 
 .widget-profil  .head-image{
@@ -1111,7 +1110,7 @@ ul.about {
 
 @media only screen  and (max-width: 766px) {
     .widget-profil{ 	
-        height: 285px !important;
+        height: 295px !important;
         margin-bottom: 20px;
         float: none;
     }
@@ -1134,7 +1133,7 @@ ul.about {
 
 @media only screen and (min-width : 766px) and (max-width: 800px) {
     .widget-profil{ 	
-        height: 210px !important;
+        height: 230px !important;
         margin-bottom: 20px;
         float: none;
     }
@@ -1153,7 +1152,7 @@ ul.about {
 @media only screen and (min-width : 800px) and (max-width : 991px) {
 
     .widget-profil{ 	
-        height: 210px !important;	
+        height: 230px !important;	
         margin-bottom: 20px;
         float: none;
     }
